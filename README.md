@@ -54,7 +54,7 @@ Use Cases: Register, Login, Search Rooms, Book Room, Make Payment, Cancel Bookin
 Below is the use case diagram for the booking system:
 alx-booking-uc.png
 
-Acceptance Criteria
+"Acceptance Criteria"
 
 Acceptance Criteria are the conditions that a software feature must meet to be accepted by the client or product owner. They make sure that everyone understands when a feature is complete and working correctly.
 
