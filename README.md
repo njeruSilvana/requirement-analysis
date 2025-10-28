@@ -2,11 +2,11 @@ Requirement Analysis in Software Development.
 
 The purpose of this repository is to explore and document the process of Requirement Analysis in software development. It focuses on understanding user needs, defining system functionalities, and establishing clear, actionable requirements that guide the entire development lifecycle.
 
-What is Requirement Analysis?
+"What is Requirement Analysis?"
 
 Requirement Analysis is one of the most important stages in the Software Development Life Cycle (SDLC). It involves gathering, studying, and documenting what a software system should do and the rules under which it must work. The goal is to understand the needs of the users, clients, and developers and turn them into clear software requirements. It helps make sure that the final software meets the goals and solves the right problems.
 
-Why is Requirement Analysis Important?
+"Why is Requirement Analysis Important?"
 
 It prevents misunderstandings between developers and clients by making the project goals clear from the start.
 
@@ -14,7 +14,7 @@ It saves time and money by identifying problems early before development begins.
 
 It improves the quality of the final product by making sure it meets user needs and expectations.
 
-Key Activities in Requirement Analysis
+"Key Activities in Requirement Analysis"
 
 • Requirement Gathering - Collecting information from users and stakeholders through meetings, interviews, and questionnaires.
 • Requirement Elicitation - Understanding what users really need, even if they do not clearly say it.
@@ -22,7 +22,7 @@ Key Activities in Requirement Analysis
 • Requirement Analysis and Modeling - Checking that requirements are clear, possible, and do not conflict, and using diagrams or models to represent them.
 • Requirement Validation - Making sure all requirements are correct, complete, and match the goals of the project.
 
-Types of Requirements
+"Types of Requirements"
 
 Functional Requirements
 These describe what the system should do. They define the main features and actions the system must perform.
@@ -44,7 +44,7 @@ The system should be available 24/7.
 
 The system should protect user data with secure login and encryption.
 
-Use Case Diagrams
+"Use Case Diagrams"
 
 Use Case Diagrams show how users (actors) interact with the system and what tasks they can perform. They help visualize the system’s main functions in a simple way.
 
